@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // App.js
+=======
+>>>>>>> d3ad5e449bfdb1f5af79de05e7a5f4fd7da35276
 import React, { useState } from 'react';
 import Footer from './Footer'
 import './style.css';
@@ -210,4 +213,7 @@ function App() {
 
 export default App;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d3ad5e449bfdb1f5af79de05e7a5f4fd7da35276

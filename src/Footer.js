@@ -85,4 +85,8 @@ function Pagination({ itemsPerPage, totalItems, currentPage, onPageChange }) {
     );
 }
 
+<<<<<<< HEAD
 export default Pagination;
+=======
+export default Pagination;
+>>>>>>> d3ad5e449bfdb1f5af79de05e7a5f4fd7da35276
